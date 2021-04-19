@@ -1,0 +1,45 @@
+.Refresh_rate {
+  left: -19vw;
+}
+
+.fillrate {
+  left: 3vw;
+}
+
+#heading {
+  margin-left: 13vww;
+}
+
+.Improve_CTR {
+  left: 18vw;
+}
+
+.Quick_Integration {
+  left: -7vw;
+}
+
+.fillrate img {
+  width: 28%;
+}
+
+/* 800 */
+
+@media only screen and (max-width: 768px) {
+  .rightdown {
+    display: none;
+  }
+
+  .right {
+    top: 48vh;
+    left: 0;
+    right: 0;
+    width: 109vw;
+  }
+
+  .rightup {
+    width: 113vw;
+  }
+  .card{
+      height:22.5%;
+  }
+}
